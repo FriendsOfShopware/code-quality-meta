@@ -5,5 +5,5 @@ This is a composer meta package containing code quality tools for Shopware proje
 ## Installation
 
 ```bash
-composer require code-quality
+composer require --dev code-quality
 ```
