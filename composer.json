@@ -3,6 +3,6 @@
     "license": "MIT",
     "description": "A meta package providing recipes for shopware code quality tools",
     "require": {
-        "shopware/core": "~6.6.0"
+        "shopware/core": "^6.6.10.0"
     }
 }
